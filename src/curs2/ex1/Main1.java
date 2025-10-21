@@ -4,7 +4,7 @@ public class Main1 {
 
     //1. Write a Java program to take two numbers as input and display the result of addition,
 // subtraction, multiplication, division, and modulus.
-    //Hello maraciuca
+    //Hello maraciuca maraciuca
 
         public static void main(String[] args) {
 
